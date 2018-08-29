@@ -24,3 +24,8 @@ hs_err_pid*
 
 .idea/
 .DS_store
+.settings/org.eclipse.m2e.core.prefs
+.classpath
+.project
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
